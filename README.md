@@ -8,6 +8,7 @@ In console(I'm using linux but for windows will probably work in the same way) i
 pip install selenium
 pip install beautifulsoup4
 pip install webdriver-manager
+pip install lxml
 
 Then run code in console:
 python main.py
